@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @ismailbaoud
+- ❓ I‘m 20 years old.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning programmation.
+- 💞️ I’m looking to collaborate on backend projects.
+- 📫 How to reach me Instagram : https://www.instagram.com/ismail_baoud .
+- ⚡ first Fun fact : i like watching series.
+- ✨ second Fun fact : i like reading books and novels.
