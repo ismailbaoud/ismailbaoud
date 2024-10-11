@@ -3,6 +3,6 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning programmation.
 - 💞️ I’m looking to collaborate on backend projects.
-- 📫 How to reach me ? Instagram : https://www.instagram.com/ismail_baoud .
+- 📫 How to reach me ? gmail: ibaoud46@gmail.com. 
 - ⚡ first Fun fact : i like watching series.
 - ✨ second Fun fact : i like reading books and novels.
