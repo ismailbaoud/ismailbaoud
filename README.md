@@ -51,12 +51,12 @@ const ismail = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailbaoud&theme=tokyonight&hide_border=true" width="49%" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ismailbaoud&theme=tokyonight&hide_border=true&show_icons=true" width="49%" alt="github stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ismailbaoud&theme=tokyonight" width="49%" alt="Ismail's Github stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ismailbaoud&theme=tokyonight&layout=compact" width="49%" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbaoud&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="49%" alt="top languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ismailbaoud&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" width="70%" alt="Trophy"/>
 </div>
 
 ### 💡 Quote of the Day
