@@ -1,69 +1,76 @@
-# 💫 About Me:
-👋 Hi, I'm **Hatim Belghiti**, a passionate **Full-Stack Web Developer** currently studying at **YouCode Safi (2024-2026)**. My goal is to build impactful digital solutions that inspire collaboration and innovation.  
+<div align="center">
+  
+# Ismail Baoud
+### Full-Stack Web Developer | YouCode Safi Student
 
-🚀 **Current Project:**  
-I'm working on a **social media platform** inspired by GitHub, designed to connect developers, share code, and foster collaboration. Stay tuned for updates as I bring this vision to life!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismail-baoud-b39aa1335/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
----
-
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-baoud-b39aa1335/)
-
----
-
-## 💻 Tech Stack:
-### Languages & Frameworks
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-### Tools
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
+</div>
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismailbaoud&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailbaoud&theme=dark&hide_border=false" alt="GitHub Streak" width="45%" />
-</p>
+### 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbaoud&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="45%" />
-</p>
+```javascript
+const ismail = {
+    code: ["JavaScript", "PHP", "HTML", "CSS", "C"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vue"],
+            css: ["Tailwind", "Bootstrap", "SASS"]
+        },
+        backEnd: ["Laravel", "Node.js", "Express"],
+        databases: ["MySQL", "MongoDB"],
+        tools: ["Docker", "Git", "Jira", "Figma"]
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with console.log and I'm not ashamed of it!"
+};
+```
+
+### 🚀 Current Projects
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20%" />
+
+- 🌐 **Developer Social Platform**
+  - A GitHub-inspired social network for developers
+  - Tech Stack: MERN + Laravel
+  - Status: In Development
+
+### 🛠️ Skills
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailbaoud&theme=tokyonight&hide_border=true" width="49%" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ismailbaoud&theme=tokyonight&hide_border=true&show_icons=true" width="49%" alt="github stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbaoud&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="49%" alt="top languages"/>
+</div>
+
+### 💡 Quote of the Day
+
+<div align="center">
+  
+*"Code is like humor. When you have to explain it, it's bad."* - Cory House
+
+</div>
 
 ---
 
-## ✍️ Random Dev Quote:
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ismailbaoud&icon=0&color=0" alt="Profile Views" />
-</p>
-
----
-
-### 🎨 Fancy Additions:
-- **Animations:** Add [GitHub Readme Animations](https://github.com/anuraghazra/github-readme-stats#customization).
-- **Custom Designs:** Use [Shields.io](https://shields.io/) for personalized badges.
-- **Project Showcase:** Embed GIFs or screenshots to highlight your current projects!
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ismailbaoud&color=blueviolet" alt="Profile views"/>
+  
+  Made with ❤️ by Ismail Baoud
+</div>
