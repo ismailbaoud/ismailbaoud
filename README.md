@@ -58,14 +58,28 @@ const ismail = {
   <img src="https://github-profile-trophy.vercel.app/?username=ismailbaoud&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" width="70%" alt="Trophy"/>
 </div>
 
+[Previous sections remain the same until Quote section]
+
 ### 💡 Quote of the Day
-
 <div align="center">
-  
-*"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
+  <table align="center">
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ismailbaoud&color=blueviolet" alt="Profile views"/>
+  
+  Made with ❤️ by Ismail Baoud
+</div>
 ---
 
 <div align="center">
