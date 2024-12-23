@@ -78,10 +78,3 @@ const ismail = {
   
   Made with ❤️ by Ismail Baoud
 </div>
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ismailbaoud&color=blueviolet" alt="Profile views"/>
-  
-  Made with ❤️ by Ismail Baoud
-</div>
