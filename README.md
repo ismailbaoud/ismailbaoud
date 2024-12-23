@@ -58,8 +58,6 @@ const ismail = {
   <img src="https://github-profile-trophy.vercel.app/?username=ismailbaoud&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" width="70%" alt="Trophy"/>
 </div>
 
-[Previous sections remain the same until Quote section]
-
 ### 💡 Quote of the Day
 <div align="center">
   <table align="center">
