@@ -32,7 +32,7 @@ const ismail = {
 
 Check out my TryHackMe progress and achievements!
 
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4013910)
+![Your Image Badge](https://tryhackme-badges.s3.amazonaws.com/ibaoud46.png)
 
 Feel free to connect or check out my progress!
 ### 🚀 Current Projeame srcts
