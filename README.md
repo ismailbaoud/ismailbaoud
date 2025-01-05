@@ -28,6 +28,9 @@ const ismail = {
     funFact: "I debug with console.log and I'm not ashamed of it!"
 };
 ```
+### 👨‍💻 TRY HACK ME
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4013910" style='border:none;'></iframe>
 
 ### 🚀 Current Projects
 
