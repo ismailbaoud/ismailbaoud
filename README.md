@@ -28,11 +28,14 @@ const ismail = {
     funFact: "I debug with console.log and I'm not ashamed of it!"
 };
 ```
-### 👨‍💻 TRY HACK ME
+#  My TryHackMe Profile
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4013910" style='border:none;'></iframe>
+Check out my TryHackMe progress and achievements!
 
-### 🚀 Current Projects
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4013910)
+
+Feel free to connect or check out my progress!
+### 🚀 Current Projeame srcts
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20%" />
 
