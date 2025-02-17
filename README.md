@@ -17,12 +17,11 @@ const ismail = {
     code: ["JavaScript", "PHP", "HTML", "CSS", "C"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue"],
-            css: ["Tailwind", "Bootstrap", "SASS"]
+            css: ["Tailwind", "Bootstrap"]
         },
-        backEnd: ["Laravel", "Node.js", "Express"],
+        backEnd: ["Laravel", "Node.js"],
         databases: ["MySQL", "MongoDB"],
-        tools: ["Docker", "Git", "Jira", "Figma"]
+        tools: ["Git", "Jira", "Figma"]
     },
     currentFocus: "Building scalable web applications",
     funFact: "I debug with console.log and I'm not ashamed of it!"
@@ -32,7 +31,6 @@ const ismail = {
 
 - 🌐 **Developer Social Platform**
   - A GitHub-inspired social network for developers
-  - Tech Stack: MERN + Laravel
   - Status: In Development
 
 ### 🛠️ Skills
@@ -40,9 +38,7 @@ const ismail = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📊 GitHub Stats
 
