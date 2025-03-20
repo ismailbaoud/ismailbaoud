@@ -17,11 +17,11 @@ const ismail = {
     code: ["JavaScript", "PHP", "HTML", "CSS", "C"],
     technologies: {
         frontEnd: {
-            css: ["Tailwind", "Bootstrap"]
+            css: ["Tailwind", "Bootstrap", "REACT.js"]
         },
-        backEnd: ["Laravel", "Node.js"],
-        databases: ["MySQL", "MongoDB"],
-        tools: ["Git", "Jira", "Figma"]
+        backEnd: ["Laravel", "REST API"],
+        databases: ["MySQL", "postgresql"],
+        tools: ["Git", "Jira", "Figma" , "trello"]
     },
     currentFocus: "Building scalable web applications",
     funFact: "I debug with console.log and I'm not ashamed of it!"
