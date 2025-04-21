@@ -14,18 +14,19 @@
 
 ```javascript
 const ismail = {
-    code: ["JavaScript", "PHP", "HTML", "CSS", "C"],
-    technologies: {
-        frontEnd: {
-            css: ["Tailwind", "Bootstrap", "REACT.js"]
-        },
-        backEnd: ["Laravel", "REST API"],
-        databases: ["MySQL", "postgresql"],
-        tools: ["Git", "Jira", "Figma" , "trello"]
-    },
-    currentFocus: "Building scalable web applications",
+    frontEnd: ["HTML", "CSS", "JavaScript", "Tailwind CSS", "Bootstrap", "React.js"],
+    backEnd: ["PHP", "Laravel", "Axios", "REST API", "Express.js", "Node.js"],
+    analyseEtConception: ["Figma", "Lucidchart"],
+    gestionBaseDonnees: ["MySQL", "PostgreSQL"],
+    gestionProjet: ["Méthodologies Agile (Scrum, Kanban)", "Trello", "Jira"],
+    outilsDevOpsEtDocumentation: ["Postman", "Swagger"],
+    outilsCollaboration: ["Git", "GitHub"],
+    systemesEtDeveloppement: ["Linux (basic)", "Java (basic)", "Python (basic)"],
+    currentFocus: "Building Bug Bounty platform",
+    project: "HappyHunt - A platform for connecting cybersecurity researchers with companies to report vulnerabilities.",
     funFact: "I debug with console.log and I'm not ashamed of it!"
 };
+
 ```
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20%" />
 
