@@ -14,16 +14,14 @@
 
 ```javascript
 const ismail = {
-    frontEnd: ["HTML", "CSS", "JavaScript", "Tailwind CSS", "Bootstrap", "React.js"],
+    frontEnd: ["HTML", "CSS", "JavaScript", "Tailwind CSS", "Bootstrap", "React.js","next.js"],
     backEnd: ["PHP", "Laravel", "Axios", "REST API", "Express.js", "Node.js"],
     analyseEtConception: ["Figma", "Lucidchart"],
-    gestionBaseDonnees: ["MySQL", "PostgreSQL"],
+    gestionBaseDonnees: ["MySQL", "PostgreSQL","mongoDb"],
     gestionProjet: ["Méthodologies Agile (Scrum, Kanban)", "Trello", "Jira"],
     outilsDevOpsEtDocumentation: ["Postman", "Swagger"],
-    outilsCollaboration: ["Git", "GitHub"],
+    outilsCollaboration: ["Git", "GitHub","gitLab"],
     systemesEtDeveloppement: ["Linux (basic)", "Java (basic)", "Python (basic)"],
-    currentFocus: "Building Bug Bounty platform",
-    project: "HappyHunt - A platform for connecting cybersecurity researchers with companies to report vulnerabilities.",
     funFact: "I debug with console.log and I'm not ashamed of it!"
 };
 
@@ -80,6 +78,7 @@ const ismail = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![next](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=next&logoColor=white)  
 
 
 ### 📊 GitHub Stats
