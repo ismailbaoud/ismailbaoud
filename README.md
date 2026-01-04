@@ -14,27 +14,10 @@
 </div>
 
 ### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,react,angular,next,php,laravel,nodejs,express,axios,postgres,mysql,mongodb,docker,nginx,git,github,jira,clickup)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,react,angular,nextjs,php,laravel,nodejs,express,mongodb,postgresql,mysql,docker,nginx,git,github,jira,postman)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=digitalocean,githubactions,cicd)](https://skillicons.dev)
-
-### Projects
-
-**SmartShop - Boutique Management Platform - [GitHub](https://github.com/your-username/smartshop)**  
-- Modern online shop management system built with Spring Boot  
-- Manages clients, products, orders, and payments  
-- Includes automatic loyalty and reward system  
-- **Technologies:** Java, Spring Boot, Spring Data JPA, PostgreSQL, REST API, Git/GitHub, Postman, JUnit  
-
-**AL-BARAKA Digital Banking Platform - [GitHub](https://github.com/your-username/al-baraka)**  
-- Secure digital banking platform with Spring Boot  
-- Full management of accounts, operations, and documents  
-- OAuth2 authentication via Keycloak  
-- Multi-role architecture: Client, Banking Agent, Administrator  
-- Automatic validation for operations ≤ 10,000 DH, manual validation above  
-- Secure document management  
-- **Technologies:** Java, Spring Boot, Spring Security, JPA/Hibernate, PostgreSQL, REST API, Keycloak, Docker, Docker Compose, Nginx, Git/GitHub, GitHub Actions, CI/CD, Postman, MapStruct, JUnit  
 
 ### Connect with Me!
 <div>
