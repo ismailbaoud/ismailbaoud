@@ -1,6 +1,6 @@
-[![GitHub ReadMe Header](https://github.com/ismailbaoud/ismailbaoud/blob/main/header/banner_code.gif)](https://ismail-baoud-portfolio.vercel.app/)  
-## Hey there, I'm Ismail Baoud! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  
-### 💻 I build with: Java, Spring Boot, Spring Security, Spring Cloud, Hibernate, PHP, Laravel, JavaScript, TypeScript, React, Angular, Next.js, Node.js, Express.js
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=35&duration=4000&pause=500&color=D9BED1&width=800&lines=Hello+World!+I'm+Ismail+Baoud;Full-Stack+Developer+%26+Tech+Enthusiast)](https://github.com/ismailbaoud/ismailbaoud)
+
+## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <!-- Activity Graph -->
 <p align="center">
