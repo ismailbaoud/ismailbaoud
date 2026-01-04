@@ -4,14 +4,14 @@
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=2E3440&color=81A1C1&line=88C0D0&point=5E81AC&area_color=D8DEE9&title_color=81A1C1&area=true"/>
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=ismailbaoud&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=2E3440&color=81A1C1&line=88C0D0&point=5E81AC&area_color=D8DEE9&title_color=81A1C1&area=true"/>
   </a> 
 </p>
 
 <!-- Visitors badge -->
 <p align="center">
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fismailbaoud">
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&label=visitors&labelColor=%232d3440&countColor=%2380a0c0&style=flat-square" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fismailbaoud&label=visitors&labelColor=%232d3440&countColor=%2380a0c0&style=flat-square" />
   </a>
 </p>
 
@@ -107,5 +107,5 @@ Hi! I'm **Ismail Baoud**, a **Full-Stack Web Developer** passionate about buildi
 ---
 
 #### Connect with me:
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-3B4252?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/your-linkedin/)  
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-3B4252?style=flat&logo=github&logoColor=181717)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-3B4252?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ismail-baoud-b39aa1335/)  
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-3B4252?style=flat&logo=github&logoColor=181717)](https://github.com/ismailbaoud)
